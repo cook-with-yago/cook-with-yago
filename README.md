@@ -3,8 +3,9 @@
 
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=https://media.tenor.com/your-gif-url.gif"
-    width="100%"
+    src="https://i.kym-cdn.com/photos/images/newsfeed/002/061/503/f1e.gif"
+    width="600"
+    alt="Anime cooking"
   />
 </p>
 
